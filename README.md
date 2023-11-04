@@ -30,9 +30,8 @@ Watch our guided video walkthrough: **[Link to Feature Walkthrough]()**
 
 ## **Installation & Getting Started**
 
-1. Clone the repository: **`git clone https://github.com/Guyvinay/Project-Grid.git`**
-2. Install dependencies: **`npm install`**
-3. Start the guided tour: **`ng serve`**
+1. Clone the repository: **`[git clone https://github.com/Guyvinay/Project-Grid.git](https://github.com/Guyvinay/TrendZy.git)`**
+
 
 ## **User Journey**
 
